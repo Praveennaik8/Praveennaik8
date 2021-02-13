@@ -1,6 +1,6 @@
 -  Hi, I’m Praveen Naik
 -  I’m interested in Problem solving.
--  I’m currently learning Computer Science and engineering
+-  I’m currently learning Computer Science and Engineering
 -  I’m looking to collaborate on Projects based on C,CPP,Java,Python and webdevelopement (front-end)
 - 📫 Reach me at praveennaik8887@gmail.com
 
