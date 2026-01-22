@@ -16,7 +16,7 @@
 - 🧠 Retired competitive programmer → now obsessed with AI and systems  
 - 🎓 Computer science graduate (yes, I care about fundamentals)  
 - 🧪 Constantly experimenting, breaking, rebuilding
-- 🧨 Opinionated. Curious. Hard to impress.
+- 🧨 Opinionated. Curious
 
 ------
 
